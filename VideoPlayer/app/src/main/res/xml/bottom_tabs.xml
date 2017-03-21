@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@mipmap/ic_launcher"
+        id="@+id/tab_home"
+        title="首页" />
+    <tab
+        icon="@mipmap/ic_launcher"
+        id="@+id/tab_movie"
+        title="影视" />
+    <tab
+        icon="@mipmap/ic_launcher"
+        id="@+id/tab_sign" />
+    <tab
+        icon="@mipmap/ic_launcher"
+        id="@+id/tab_circle"
+        title="圈子" />
+    <tab
+        icon="@mipmap/ic_launcher"
+        id="@+id/tab_my"
+        title="我的" />
+</tabs>
+
